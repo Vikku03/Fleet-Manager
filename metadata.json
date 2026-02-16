@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FleetTrack Pro",
+  "description": "A comprehensive fleet maintenance and route optimization dashboard with role-based access for managers, drivers, and maintenance staff.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
